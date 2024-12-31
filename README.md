@@ -20,4 +20,4 @@ Data-driven marketing analysis with focus on email optimization and user engagem
 - Visualization tools
 
 ## Contact
-[Website] | [LinkedIn]
+[LinkedIn] | https://www.linkedin.com/in/marcusstellato/
